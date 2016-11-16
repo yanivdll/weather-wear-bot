@@ -1,0 +1,29 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "A Facebook bot that suggest baby outfit based on weather conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivdll/weather-wear-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "weather",
+    "baby"
+  ],
+  "author": "Yaniv Gilad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanivdll/weather-wear-bot/issues"
+  },
+  "homepage": "https://github.com/yanivdll/weather-wear-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
